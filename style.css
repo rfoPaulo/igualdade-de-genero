@@ -238,6 +238,15 @@ nav ul li a:hover {
     margin-bottom: 10px;
 }
 
+.graficos {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-radius: 15px;
+    max-width: 100%;
+}
+
 
 /* --- Rodapé --- */
 footer {
